@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Expo**
 
-- 👨‍💻 All of my projects are available at [lautarodelgado.space](lautarodelgado.space)
+- 👨‍💻 All of my projects are available at (https://lautarodelgado.space)
 
 - 💬 Ask me about **react, nextjs, astro**
 
